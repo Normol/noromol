@@ -7,8 +7,6 @@ const count = ref(0)
 </script>
 
 <template>
-  <h1>{{ msg }}</h1>
-
   <p>
     <a href="https://vitejs.dev/guide/features.html" target="_blank">
       Vite Docs
